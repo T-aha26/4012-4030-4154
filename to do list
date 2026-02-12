@@ -1,0 +1,15 @@
+3-Creation des pages (Laureen)
+
+    .Creation des dossires app/view
+    -ajouter des pages php {
+        ajout_course
+        report_list
+    }
+
+    .pages
+    -report_list{
+       creation de 2 tableaux
+       creation des requetes sql 
+       1tab -> affichage des montants total( recette, benefice, depense);
+       2tab -> affichage en mode list par date du 1tab
+    }

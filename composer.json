@@ -1,0 +1,18 @@
+{
+    "name": "tonnom/taxi_moto",
+    "description": "Application Taxi Moto avec FlightPHP",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "mikecao/flight": "^1.7",
+        "tracy/tracy": "^2.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
